@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Grocery Delivery App<br>🏫I'm willing to learn Cloud Computing & Devops<br>🌱 I’m interested to develop Full Stack Projects<br>💬 Ask me about React JS
+🔭 I'm willing to learn Cloud Computing & Devops<br>🌱 I’m interested to develop Full Stack Projects<br>💬 Ask me about React JS
 
 
 ## 🌐 Socials:
